@@ -1,0 +1,25 @@
+img{
+
+    width: 25rem;
+}
+.btn{
+
+    background-color: #5e17eb !important;
+    color: white;
+    border-color: white;
+}
+
+footer{
+
+    text-align: center;
+    background-color:#5e17eb ;
+    color: white;
+    padding: 10px;
+}
+body{
+    font-family: 'Nunito';
+}
+
+h3{
+    font-weight: bold;
+}
